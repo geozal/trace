@@ -1,4 +1,8 @@
-![License: Private](https://img.shields.io/badge/license-private-orange.svg) T.R.A.C.E. – The Log & Cleaner (Non-Commercial Use - Private Project)
+T.R.A.C.E. – The Log & Cleaner (Non-Commercial Use - Private Project)
+![License: Private](https://img.shields.io/badge/license-private-orange.svg)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
+![Last Commit](https://img.shields.io/github/last-commit/geozal/trace.svg)
+![Repo Size](https://img.shields.io/github/repo-size/geozal/trace.svg)
 
 ![tracepng](https://github.com/user-attachments/assets/6c14139d-4767-4e1f-adf9-26829ea7a498)
 
