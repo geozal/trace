@@ -81,8 +81,10 @@ Check the logs → View results directly in the interface or export them.
 
 ✅ License Terms
 Non-Commercial Use Only
-You are granted permission to use this software solely for personal or internal purposes.
-Any commercial, resale, distribution, or public deployment is strictly prohibited without the express written consent of the creator.
+
+You are granted permission to use this software solely for personal or strictly internal purposes within a private environment.
+This project is a private, non-public tool and is not intended for any public use, public sharing, or public distribution.
+Any form of commercial use, resale, redistribution, public deployment, publication, or incorporation into commercial or public systems is strictly prohibited without the prior written consent of the creator. This software is explicitly labeled as a private project.
 
 Ownership
 All rights, title, and interest in the software, including its source code, designs, reports, and associated materials, remain the exclusive property of the creator.
