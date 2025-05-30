@@ -118,3 +118,6 @@ You are responsible for securing any exported files if you choose to keep them o
 If you wish the program not to send data, you should disable internet connection first, or block it via firewall.
 
 For requests related to commercial use, extended rights, or collaboration, please contact the creator directly.
+
+
+In collaboration with OpenAI's ChatGPT
