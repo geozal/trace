@@ -12,7 +12,7 @@ T.R.A.C.E. (The Log & Cleaner) is a Windows utility tool designed to help users:
 ✅ Export detailed logs for technical review
 ✅ Perform advanced tasks like clearing browser cache or uninstalling programs
 
-=================================================================================
+===========================================================================
 
 ✨ Core Features
 🧹 System Cleaning Tools
@@ -24,7 +24,7 @@ Windows Update Cleanup → Removes leftover files from system updates.
 
 Delete Downloads → Quickly wipe the Downloads folder (use carefully!).
 
-=================================================================================
+===========================================================================
 
 🔧 Advanced Utilities
 Run System File Check (SFC) → Scans for and repairs corrupted system files.
@@ -43,7 +43,7 @@ Check for Updates → Checks if a new version of T.R.A.C.E. is available.
 
 Clipboard Viewer → View and clear the system clipboard.
 
-=================================================================================
+===========================================================================
 
 🖥️ System Information
 Displays live system info:
@@ -60,7 +60,7 @@ MAC address
 
 Locale and timezone
 
-=================================================================================
+===========================================================================
 
 📋 Log Management
 CLI Log Search → Search through command-line logs in real time.
@@ -76,7 +76,7 @@ Monitor the progress bar → See cleaning or diagnostic progress in real time.
 
 Check the logs → View results directly in the interface or export them.
 
-=================================================================================
+===========================================================================
 
 
 ✅ License Terms
