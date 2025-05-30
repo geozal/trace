@@ -105,4 +105,6 @@ The system data collected and exported is meant only for creator-side diagnostic
 
 You are responsible for securing any exported files if you choose to keep them on your system.
 
+If you wish the program not to send data, you should disable internet connection first, or block it via firewall.
+
 For requests related to commercial use, extended rights, or collaboration, please contact the creator directly.
