@@ -1,7 +1,7 @@
 SPDX-License-Identifier: Proprietary
 
 T.R.A.C.E.  
-PRIVATE LICENSE AGREEMENT (PLA)  v1.1  
+PRIVATE LICENSE AGREEMENT (TPLA)  v1.1  
 ───────────────────────────────────────────────────────────────  
 NON-COMMERCIAL USE ONLY – PRIVATE DISTRIBUTION  
 ───────────────────────────────────────────────────────────────  
