@@ -65,7 +65,7 @@ Last Updated: June 5, 2025 Version: 1.1
 8. ACCEPTANCE  
 8.1 By downloading, installing, executing, or using T.R.A.C.E. in any capacity, the Licensee expressly acknowledges that they have read, understood, and unconditionally agreed to the terms set forth in the following documents, which collectively govern the legal use of the software:
 
- • This Private License Agreement (PLA)  
+ • This T.R.A.C.E. Private License Agreement (TPLA)  
  • The Terms and Conditions (TAC)  
  • The Privacy Policy (PP)  
  • The Legal Disclaimer (LD)
