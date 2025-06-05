@@ -1,55 +1,78 @@
 SPDX-License-Identifier: Proprietary
 
-T.R.A.C.E. – The Log & Cleaner (Non-Commercial Use — Private Project)
+T.R.A.C.E.  
+PRIVATE LICENSE AGREEMENT (PLA)  v1.1  
+───────────────────────────────────────────────────────────────  
+NON-COMMERCIAL USE ONLY – PRIVATE DISTRIBUTION  
+───────────────────────────────────────────────────────────────  
+Last Updated: June 5, 2025 Version: 1.1
 
-Private License Agreement
+0. © 2025 Georgios Zaltos / geozal / zaltOS. All rights reserved.
 
-─────────────────────────────────────────────────────────────
+───────────────────────────────────────────────────────────────
 
-Author  
-This software is created and maintained by [geozal].  
-All rights reserved.
+1. AUTHOR & OWNERSHIP  
+1.1 This software, including but not limited to its codebase, logic, structure, user interface, features, assets, and documentation, was solely created, is currently owned, and is actively maintained by Georgios Zaltos, who also operates under the pseudonyms “geozal” and “zaltOS” (hereafter referred to as “the Creator”).  
+1.2 The Creator is the sole and original author of the software. No individual, group, organization, or external party has contributed to or holds claim to any portion of the source code, assets, designs, branding, or intellectual property unless explicitly credited and licensed by the Creator under a separate written agreement.  
+1.3 All rights, title, and intellectual property—including but not limited to source code, executables, logs, exported data, graphical elements, design patterns, documentation, and associated materials—remain the exclusive legal property of the Creator. No part of the software or its derivatives may be used, referenced, or reproduced in whole or in part for any purpose not permitted by this License Agreement.
 
-─────────────────────────────────────────────────────────────
 
-Private Project Notice  
-This software is explicitly labeled as a private project.  
-It is not intended for public use, public sharing, or public distribution.
 
-─────────────────────────────────────────────────────────────
 
-Non-Commercial Use Only  
-You are granted permission to use this software solely for personal or strictly internal purposes within a private environment.  
-Any form of commercial use, resale, redistribution, public deployment, publication, or incorporation into commercial or public systems is strictly prohibited without the prior written consent of the creator.
 
-─────────────────────────────────────────────────────────────
 
-Ownership  
-All rights, title, and intellectual property related to this software, including its source code, designs, assets, reports, and logs, remain the exclusive property of the creator.
+2. LICENSE SCOPE  
+2.1 The Creator grants the end user (“Licensee”) a limited, non-exclusive, non-transferable, and revocable license to install and use the software under the conditions defined below. This license does not grant ownership, resale rights, or any other rights not explicitly stated.  
+ 2.1.1 This license permits use of the software strictly for personal, non-commercial, or internal purposes. Use in any public-facing, commercial, organizational, or revenue-generating context is not permitted under this agreement without a separate commercial license explicitly issued by the Creator.  
+ 2.1.2 The software may only be installed and used on Microsoft Windows–based systems that are directly owned, leased, or exclusively operated by the Licensee. Use on shared infrastructure, cloud-based systems, virtualized multi-user environments, or machines not under the Licensee's full control is prohibited without prior written agreement.  
+ 2.1.3 Each license key issued is tied to a single hardware system. The Licensee is entitled to one key per qualifying machine. Additional license keys may be requested for other systems personally or professionally owned by the Licensee, subject to reasonable limits and approval by the Creator. All license keys are subject to usage auditing and may be revoked if used in violation of this agreement.
 
-─────────────────────────────────────────────────────────────
+2.2 Any and all of the following actions are STRICTLY prohibited WITHOUT a formal, signed licensing agreement executed between the Licensee and the Creator:  
+ • Redistribution of the software or any part of its code, binaries, assets, or documentation, whether publicly or privately.  
+ • Sublicensing, leasing, renting, lending, or granting access to third parties.  
+ • Resale or offering the software as part of any paid or unpaid service, product, or package.  
+ • Hosting the software on public platforms, websites, mirrors, repositories, or cloud services.  
+ • Uploading or sharing the software through forums, file-sharing services, or peer-to-peer networks.  
+ • Reverse engineering, decompiling, disassembling, translating, unpacking, debugging, or otherwise attempting to analyze, access, reconstruct, or derive the source code, internal logic, file structure, data schemas, algorithms, or any technical implementation of the software in whole or in part—regardless of intent, method, or tool used.  
+ • Creating derivative works based on the software or repurposing components in other tools or systems.  
+ • Integrating or embedding the software into commercial, governmental, educational, or institutional environments without explicit authorization.  
+ • Including the software or its outputs in training datasets, AI models, automated pipelines, or continuous integration systems.  
+ • Circumventing license restrictions, generating unauthorized license keys, or attempting to tamper with license enforcement mechanisms.
 
-Exported Reports and Logs  
-The system’s exported reports and diagnostic logs — generated by tools within T.R.A.C.E. — are intended solely for use by the creator or for providing feedback directly to the creator for product improvement, support, or issue tracking.  
-You may review these locally but may not distribute, modify, or reuse them for third-party purposes without explicit permission.
+2.3 Violation of any of the above constitutes a breach of this License Agreement and may result in immediate termination of all usage rights, license revocation, and further legal action.
 
-─────────────────────────────────────────────────────────────
+3. PRIVATE PROJECT NOTICE  
+3.1 This software is distributed as a private, closed-source, experimental project developed solely by the Creator for educational purposes. It is not intended for public release, open publication, general distribution, or inclusion in any publicly accessible platform.  
+3.2 All publishing, mirroring, or public exposure of the software—whether in full or in part—is strictly prohibited. This includes uploading the software or any of its components to version control systems (e.g., GitHub, GitLab), software indexes, package managers, download portals, cloud file shares, or archive repositories.  
+3.3 The right to publish, release, or publicly represent the software in any form is held exclusively by the Creator. No Licensee, user, or third party may represent, promote, distribute, or announce the existence of the software publicly without an explicit, signed agreement issued by the Creator.
 
-No Warranty  
-The software is provided “as is” without any express or implied warranties, including but not limited to fitness for a particular purpose or non-infringement.  
-The creator is not liable for any damages, data loss, or system impact arising from the use or misuse of this software.
+4. REPORTS & DIAGNOSTICS  
+4.1 All reports and logs generated by T.R.A.C.E. are intended solely for internal use or for feedback to the Creator.  
+4.2 Redistribution or reuse of exported data in third-party tools, publications, or services is prohibited without written authorization.
 
-─────────────────────────────────────────────────────────────
+5. LICENSE ENFORCEMENT  
+5.1 Any violation of this License Agreement—whether by action, omission, circumvention, or attempted misuse—constitutes a material breach and will result in the immediate and automatic termination of the Licensee’s rights to use the software, including invalidation of any active license keys.  
+5.2 Upon such termination, the Licensee must cease all use of the software and delete all associated files, configurations, outputs, logs, or residual components from all affected systems.  
+5.3 The Creator reserves the unrestricted right to revoke, disable, suspend, or blacklist any license key or user account at any time if misuse, unauthorized distribution, breach of terms, or any form of suspicious behavior is detected or reasonably suspected.  
+5.4 The Creator may deny future licensing requests or access to updates and support at their sole discretion, without obligation to disclose internal criteria or justification.  
+5.5 The Creator retains the right to pursue all remedies available under applicable law, including but not limited to civil claims, injunctive relief, and criminal prosecution where applicable.
 
-No Redistribution  
-You may not share, upload, repackage, or distribute the software or any part of its bundled assets without written authorization.
+6. AMENDMENTS TO THIS AGREEMENT  
+6.1 This License Agreement may be amended, updated, or replaced at any time by the Creator at their sole discretion. Updates may include changes to licensing terms, usage rights, restrictions, enforcement conditions, or related provisions.  
+6.2 The Creator is not obligated to notify individual Licensees of changes. It is the Licensee’s responsibility to review the most current version of this agreement, which will be made available through the official distribution channel or website.  
+6.3 Continued installation, execution, or use of the software following the publication of an updated License Agreement shall constitute full and binding acceptance of the revised terms, regardless of whether the Licensee has reviewed them.  
+6.4 If the Licensee does not agree to the updated terms, they must immediately cease use of the software and uninstall all copies.
 
-─────────────────────────────────────────────────────────────
+7. CONTACT  
+7.1 For licensing, support, or commercial requests, contact:  
+  info@zaltos.tech
 
-Important  
-By using T.R.A.C.E., you acknowledge that:
-- The system data collected and exported is meant only for creator-side diagnostics and refinement.
-- You are responsible for securing any exported files if you choose to keep them on your system.
-- If you wish the program not to send any data, you should disable your internet connection or block the program via firewall.
+8. ACCEPTANCE  
+8.1 By downloading, installing, executing, or using T.R.A.C.E. in any capacity, the Licensee expressly acknowledges that they have read, understood, and unconditionally agreed to the terms set forth in the following documents, which collectively govern the legal use of the software:
 
-For requests related to commercial use, extended rights, or collaboration, please contact the creator directly.
+ • This Private License Agreement (PLA)  
+ • The Terms and Conditions (TAC)  
+ • The Privacy Policy (PP)  
+ • The Legal Disclaimer (LD)
+
+8.2 If the Licensee does not accept all terms in their entirety, they are prohibited from using the software and must immediately cease installation or remove all associated files from their system.
